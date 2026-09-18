@@ -12,6 +12,10 @@ For Copilot, Claude Code, and other supported agents:
 npx skills add Yuncun/prior-art --skill prior-art
 ```
 
+The optional plugin package is named `prior-art`, matching the skill. It is not
+the separate `research-evidence` package. Choose a standalone skill or a plugin
+installation for a client, rather than loading both copies.
+
 Copilot can also install the single file directly:
 
 ```bash

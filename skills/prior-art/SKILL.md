@@ -21,13 +21,13 @@ Reuse an earlier build-versus-adopt decision when the constraints still hold. Sc
 ## Before building or recommending
 
 1. Identify the unmet need and constraints. Check the repository's existing components and the platform's built-in capabilities. Search for how people solve the same problem, not just tools matching the proposed implementation.
-2. Use relevant community discussions to discover overlooked options, then verify serious candidates against primary sources. Compare fit and maintenance with dated evidence of real use.
-3. Recommend reuse, adoption, or a custom implementation. For custom work, name the concrete constraint the existing options miss, including dependency or operating cost. Keep the search proportionate; stop once there is enough evidence for the decision.
+2. Use popularity signals such as stars and relevant community discussions to find established options beyond exact search matches, then verify serious candidates against primary sources. Compare fit and maintenance with dated evidence of real use.
+3. Prefer established, widely adopted solutions with recent evidence of successful use and credible maintenance. For a niche alternative or custom implementation, name the concrete constraint the established options miss, including dependency or operating cost. Keep the search proportionate; stop once there is enough evidence for the decision.
 
 ## Evidence
 
 - Date maintenance and adoption observations. Prefer evidence relevant to current versions; older evidence can still establish a fact.
-- Popularity helps discover options. Named users and first-hand usage reports support adoption; stars alone establish neither active use nor effectiveness on a particular model.
+- Use named users and first-hand usage reports to corroborate adoption and effectiveness for the relevant use case.
 - A search summary is a lead, not a verified source. Failed access or an empty helper result leaves a gap; it does not show that no solution exists.
 
 ## Answer
